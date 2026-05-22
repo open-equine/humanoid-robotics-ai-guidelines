@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/Domain-Equine%20Safety-gold" alt="Equine Safety"/>
 </p>
 
-<p align="center">
-  <strong>openequine.org</strong> &nbsp;|&nbsp; Technology serves the stable. It does not govern it.
-</p>
+
 
 ---
 
@@ -229,5 +227,4 @@ See `LICENSE` for full terms.
   <strong>Open Equine Intelligence Systems — Horse AI</strong><br/>
   A TechXZone Pvt Ltd Initiative<br/>
   openequine.org &nbsp;|&nbsp; contact@openequine.org &nbsp;|&nbsp; May 2026<br/>
-  <em>Technology serves the stable. It does not govern it.</em>
 </p>
