@@ -1,7 +1,7 @@
 # Licence
 
-**Open Equine**
-Open Equine Intelligence Systems — Horse AI
+**Open Equine** 
+- Open Equine Intelligence Systems — Horse AI
 A TechXZone Pvt Ltd Initiative
 openequine.org | contact@openequine.org
 
