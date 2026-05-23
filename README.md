@@ -2,8 +2,7 @@
   <img src="assets/logo.png" alt="Open Equine Intelligence Systems" width="180"/>
 </p>
 
-<h1 align="center">Humanoid, Robotics & AI Safety Guidelines</h1>
-<h1 align="center"> in Equine Industry</h1>
+<h1 align="center">Humanoid, Robotics & AI Safety Guidelines </br> in Equine Industry </h1>
 <h3 align="center">Open Equine Intelligence Systems — Horse AI</h3>
 <h4 align="center">A TechXZone Pvt Ltd Initiative</h4>
 
