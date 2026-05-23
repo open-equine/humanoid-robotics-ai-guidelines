@@ -4,7 +4,7 @@
 
 <h1 align="center">Humanoid, Robotics & AI Safety Guidelines </br> in Equine Industry</h1>
 <h3 align="center">Open Equine Intelligence Systems — Horse AI</h3>
-<h4 align="center">A TechXZone Pvt Ltd Initiative</h4>
+<h4 align="center">Open Equine - A TechXZone Pvt Ltd Initiative</h4>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/Code-AGPLv3-blue.svg" alt="AGPLv3"/></a>
