@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Content Quality Test Execution</h1>
-<h2 align="center">Definition of Devices — OE-GL-000</h2>
+<h2 align="center">Definition of Devices — OE-GL-000 Update OE-GL-000_DOD-Framework</h2>
 <h3 align="center">Open Equine Intelligence Systems — Horse AI</h3>
 <h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative</h4>
 
