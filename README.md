@@ -120,7 +120,7 @@ humanoid-robotics-ai-guidelines/
 
 | Reference | Title | Status |
 |---|---|---|
-| OE-GL-001 | Safety Guidelines — Humanoid Machines | ✅ Published |
+| OE-GL-001 | Safety Guidelines — Humanoid Machines | 🔄 In Development |
 | OE-GL-002 | Safety Guidelines — Biomimetic Robotic Systems | 🔄 In Development |
 | OE-GL-003 | Safety Guidelines — Aerial Systems | 🔄 In Development |
 | OE-GL-004 | Safety Guidelines — Ground Autonomous Machines | 🔄 In Development |
