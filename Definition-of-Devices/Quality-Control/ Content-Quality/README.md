@@ -6,7 +6,7 @@
 <h1 align="center">Content Quality Test Artifacts</h1>
 <h2 align="center">Definition of Devices — OE-GL-000 Update OE-GL-000_DOD-Framework</h2>
 <h3 align="center">Open Equine Intelligence Systems — Horse AI</h3>
-<h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative</h4>
+<h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative.</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Reference-OE--GL--000--DOD--CQ-blue" alt="OE-GL-000-DOD-CQ"/>
