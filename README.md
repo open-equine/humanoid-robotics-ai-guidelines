@@ -24,7 +24,6 @@ This repository contains the guidelines framework developed by **Open Equine Int
 
 All documents in this repository are released under **CC-BY-SA 4.0**. All code and software components are released under **AGPLv3**. Both licences are free of cost and available for adoption, adaptation, and integration by any stable, equestrian organisation, veterinary authority, standards body, or technology manufacturer globally.
 
-The definitions, classifications, and guidelines contained in this framework are developed in the context of equine stable environments. However, the underlying principles — relating to the sensory response characteristics of domestic animals, the risk profile of confined environments, and the behavioural response to biomimetic and autonomous machines — are applicable across domestic animal environments broadly. Organisations and institutions developing safety guidelines for other domestic animals, including bovine, ovine, canine, and other livestock or companion animal environments, are encouraged to reference and adapt this framework. Where adaptations are made, attribution to Open Equine Intelligence Systems is required under the terms of the CC-BY-SA 4.0 Licence.
 
 ---
 
@@ -38,6 +37,10 @@ As of the date of this publication, no international standards body, equestrian 
 
 This repository addresses that gap.
 
+## Applicability to Other Domestic Animals
+
+The definitions, classifications, and guidelines contained in this framework are developed in the context of equine stable environments. However, the underlying principles — relating to the sensory response characteristics of domestic animals, the risk profile of confined environments, and the behavioural response to biomimetic and autonomous machines — are applicable across domestic animal environments broadly. Organisations and institutions developing safety guidelines for other domestic animals, including bovine, ovine, canine, and other livestock or companion animal environments, are encouraged to reference and adapt this framework. Where adaptations are made, attribution to Open Equine Intelligence Systems is required under the terms of the CC-BY-SA 4.0 Licence.
+
 ---
 
 ## Repository Structure
@@ -46,13 +49,21 @@ This repository addresses that gap.
 humanoid-robotics-ai-guidelines/
 │
 ├── README.md
-├── LICENSE
+├── LICENSE.md
+│
+├── Ground-Rules/
+│   ├── OE-HRA-GroundRules.md
+│   ├── OE-HRA-GroundRules.docx
+│   ├── OE-HRA-GroundRules.pdf
+│   └── OE-HRA-GroundRules.png
 │
 ├── Definition-of-Devices/
 │   ├── OE-GL-000-DOD-Framework-v1.2.md
 │   ├── Quality-Control/
 │   │   └── Content-Quality/
 │   │       └── OE-GL-000-DOD-ContentQuality-v0_12.xlsx
+│   ├── Compliance-Validation/
+│   │   └── OE-GL-000-DOD-ComplianceValidation.xlsx  (Coming Soon)
 │   └── Rationale/
 │       ├── OE-PRE-001_Industry-Rationale.md
 │       └── OE-PRE-002_Inevitable-Arrival-Position-Paper.md
@@ -79,6 +90,12 @@ humanoid-robotics-ai-guidelines/
 ---
 
 ## Document Index
+
+### Ground Rules
+
+| Reference | Title | Status |
+|---|---|---|
+| OE-HRA-GroundRules | Ground Rules — Humanoids, AI & Robots in Equine Stables | ✅ Published |
 
 ### Definition of Devices
 
@@ -125,34 +142,49 @@ humanoid-robotics-ai-guidelines/
 ## Where to Begin
 
 ### Researchers and Academic Institutions
-1. Read `Definition-of-Devices/Rationale/OE-PRE-001` for documented risk context
-2. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` for classification framework
-3. Refer to relevant category document under `guidelines/`
-4. Open a contribution request to participate
+1. Read `Ground-Rules/OE-HRA-GroundRules.md` — the foundation of the entire framework
+2. Read `Definition-of-Devices/Rationale/OE-PRE-001` for documented risk context
+3. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` for classification framework
+4. Refer to relevant category document under `guidelines/`
+5. Open a contribution request to participate
 
 ### Engineers, System Architects, and Technology Developers
-1. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` to classify the system under development
-2. Read the relevant category document under `guidelines/`
-3. Refer to `appendices/` for proximity, supervision, and override specifications
-4. Validate system design against all applicable documents before stable deployment
+1. Read `Ground-Rules/OE-HRA-GroundRules.md` — the foundation of the entire framework
+2. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` to classify the system under development
+3. Read the relevant category document under `guidelines/`
+4. Refer to `appendices/` for proximity, supervision, and override specifications
+5. Validate system design against all applicable documents before stable deployment
 
 ### Equine Institutions, Veterinary Professionals, and Welfare Organisations
-1. Read `Definition-of-Devices/Rationale/OE-PRE-001` for equine-specific risk documentation
-2. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` for technology category definitions
-3. Refer to relevant category document for human oversight and veterinary authority specifications
-4. Contribute equine welfare expertise via openequine.org
+1. Read `Ground-Rules/OE-HRA-GroundRules.md` — the foundation of the entire framework
+2. Read `Definition-of-Devices/Rationale/OE-PRE-001` for equine-specific risk documentation
+3. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` for technology category definitions
+4. Refer to relevant category document for human oversight and veterinary authority specifications
+5. Contribute equine welfare expertise via openequine.org
 
 ### Breeders, Stable Managers, and Equestrian Professionals
-1. Read `Definition-of-Devices/Rationale/OE-PRE-002` for deployment context
-2. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` to identify the technology category relevant to your facility
-3. Refer to the relevant category document for permitted operations and supervision requirements
-4. Refer to `appendices/` for acclimation protocols before any deployment
+1. Read `Ground-Rules/OE-HRA-GroundRules.md` — the foundation of the entire framework
+2. Read `Definition-of-Devices/Rationale/OE-PRE-002` for deployment context
+3. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` to identify the technology category relevant to your facility
+4. Refer to the relevant category document for permitted operations and supervision requirements
+5. Refer to `appendices/` for acclimation protocols before any deployment
 
 ### Standards Bodies and Regulatory Authorities
-1. Read `Definition-of-Devices/Rationale/OE-PRE-001` for the documented regulatory vacuum this framework addresses
-2. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` for the classification and definitional structure
-3. Refer to individual category documents for technical specifications and architectural requirements
-4. Contact openequine.org for formal collaboration or integration into existing frameworks
+1. Read `Ground-Rules/OE-HRA-GroundRules.md` — the foundation of the entire framework
+2. Read `Definition-of-Devices/Rationale/OE-PRE-001` for the documented regulatory vacuum this framework addresses
+3. Read `Definition-of-Devices/OE-GL-000-DOD-Framework-v1.2.md` for the classification and definitional structure
+4. Refer to individual category documents for technical specifications and architectural requirements
+5. Contact openequine.org for formal collaboration or integration into existing frameworks
+
+---
+
+## Ground Rules
+
+The Ground Rules are the foundation of the entire framework. Before reading any guidelines document, any reader — regardless of background — should read the Ground Rules first.
+
+Ground Rules are available in `Ground-Rules/` in Markdown, Word, and PDF formats.
+
+Two rules. No exceptions.
 
 ---
 
@@ -163,6 +195,20 @@ This framework publishes its quality control artifacts alongside every document 
 The Definition of Devices document completed two-run quality verification prior to public release — zero defects at release. Quality control artifacts are released under CC-BY-SA 4.0 for external contributors to execute and submit results.
 
 Contact [contact@openequine.org](mailto:contact@openequine.org) to submit test results or raise queries.
+
+---
+
+## Compliance Validation
+
+*Coming Soon*
+
+For each published guideline, Open Equine provides two distinct quality instruments:
+
+**Quality Control** — Open Equine testing Open Equine. These artifacts document how each OEGL document was tested, what defects were found, and how they were resolved. Published alongside every document release.
+
+**Compliance Validation** — Testing whether your framework implements OEGL. A separate test suite that any stable, equestrian organisation, or technology developer can execute against their own framework to verify OEGL compliance. If the test cases pass, the framework meets the OEGL safety guidelines standard.
+
+Compliance Validation instruments will be published under `Compliance-Validation/` within each guidelines document folder.
 
 ---
 
