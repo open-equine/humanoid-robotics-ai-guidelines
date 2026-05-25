@@ -2,8 +2,7 @@
   <img src="../assets/logo.png" alt="Open Equine Intelligence Systems" width="140"/>
 </p>
 
-<h1 align="center">OE-GL-000</h1>
-<h2 align="center">Definitions Framework</h2>
+<h1 align="center">OE-GL-000 Definitions Framework</h1>
 <h3 align="center">Intelligent and Biomimetic Systems in Equine Stable Environments</h3>
 
 <p align="center">
