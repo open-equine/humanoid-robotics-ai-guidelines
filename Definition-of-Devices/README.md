@@ -18,7 +18,7 @@
 
 ---
 
-## About This 
+## About This Folder
 
 Definition of Devices speaks about the classification of devices considered in the "Humanoids, Robotics and AI in Equine Stable Safety Guidelines". The guidelines documents in this repository reference to these devices. current version is 1.0.
 
