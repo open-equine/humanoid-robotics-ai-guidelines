@@ -46,7 +46,7 @@ The definitions, classifications, and guidelines contained in this framework are
 ## Repository Structure
 
 ```
-humanoid-robotics-ai-guidelines/
+humanoid-robotics-ai-equine-safety-guidelines/
 │
 ├── README.md
 ├── LICENSE.md
