@@ -64,9 +64,10 @@ humanoid-robotics-ai-equine-safety-guidelines/
 │   │       └── OE-GL-000-DOD-ContentQuality-v0_12.xlsx
 │   ├── Compliance-Validation/
 │   │   └── OE-GL-000-DOD-ComplianceValidation.xlsx  (Coming Soon)
-│   └── Rationale-Ineviable Arrival/
-│       ├── OE-PRE-001_Industry-Rationale.md
-│       └── OE-PRE-002_Inevitable-Arrival-Position-Paper.md
+│ 
+│── Rationale-Ineviable Arrival/
+│   ├── OE-PRE-001_Industry-Rationale.md
+│   └── OE-PRE-002_Inevitable-Arrival-Position-Paper.md
 │
 ├── guidelines/
 │   ├── OE-GL-001_Humanoid-Machines.md
