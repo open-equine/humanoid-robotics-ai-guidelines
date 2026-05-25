@@ -9,12 +9,12 @@
 <h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reference-OE--GL--000--DOD--CQ-0D2B4E" alt="OE-GL-000-DOD-CQ"/>
-  <img src="https://img.shields.io/badge/Status-Published-0B6E6E" alt="Published"/>
-  <img src="https://img.shields.io/badge/Version-0.12-1A5276" alt="Version 0.12"/>
-  <img src="https://img.shields.io/badge/Test%20Runs-2-B8974A" alt="2 Test Runs"/>
-  <img src="https://img.shields.io/badge/Defects%20at%20Release-0-1D6B2A" alt="0 Defects"/>
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/Documents-CC--BY--SA%204.0-0B6E6E.svg" alt="CC-BY-SA 4.0"/></a>
+  <img src="https://img.shields.io/badge/Reference-OE--GL--000--DOD--CQ-blue" alt="OE-GL-000-DOD-CQ"/>
+  <img src="https://img.shields.io/badge/Status-Published-brightgreen" alt="Published"/>
+  <img src="https://img.shields.io/badge/Version-0.12-blue" alt="Version 0.12"/>
+  <img src="https://img.shields.io/badge/Test%20Runs-2-gold" alt="2 Test Runs"/>
+  <img src="https://img.shields.io/badge/Defects%20at%20Release-0-brightgreen" alt="0 Defects"/>
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/Documents-CC--BY--SA%204.0-green.svg" alt="CC-BY-SA 4.0"/></a>
 </p>
 
 ---
