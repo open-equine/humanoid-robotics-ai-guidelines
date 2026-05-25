@@ -9,12 +9,12 @@
 <h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reference-OE--GL--000--DOD--CQ-navy" alt="OE-GL-000-DOD-CQ"/>
-  <img src="https://img.shields.io/badge/Status-Published-brightgreen" alt="Published"/>
-  <img src="https://img.shields.io/badge/Version-0.12-blue" alt="Version 0.12"/>
-  <img src="https://img.shields.io/badge/Test%20Runs-2-teal" alt="2 Test Runs"/>
-  <img src="https://img.shields.io/badge/Defects%20at%20Release-0-brightgreen" alt="0 Defects"/>
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/Documents-CC--BY--SA%204.0-green.svg" alt="CC-BY-SA 4.0"/></a>
+  <img src="https://img.shields.io/badge/Reference-OE--GL--000--DOD--CQ-0D2B4E" alt="OE-GL-000-DOD-CQ"/>
+  <img src="https://img.shields.io/badge/Status-Published-0B6E6E" alt="Published"/>
+  <img src="https://img.shields.io/badge/Version-0.12-1A5276" alt="Version 0.12"/>
+  <img src="https://img.shields.io/badge/Test%20Runs-2-B8974A" alt="2 Test Runs"/>
+  <img src="https://img.shields.io/badge/Defects%20at%20Release-0-1D6B2A" alt="0 Defects"/>
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/Documents-CC--BY--SA%204.0-0B6E6E.svg" alt="CC-BY-SA 4.0"/></a>
 </p>
 
 ---
@@ -73,48 +73,6 @@ The test execution file contains six tabs:
 | OEGL-00-DOD-CQ Test Cases | Blank test cases for external contributors to execute |
 | Test Summary Report Template | Blank summary report template for external contributors |
 | Change Log | Version and change history |
-
----
-
-
-## Understanding the Content Quality Test Cases — OE-GL-000 Definition of Devices
-
-This section explains the purpose and content of the file **OE-GL-000-DOD-Content Quality Test Cases**, published alongside the Definition of Devices document.
-
-### What is a Content Quality Test Case?
-
-The OE-GL-000-DOD-Content Quality Test Cases test the quality of the content written in the Definition of Devices framework. Each test case asks a specific question about the document — whether a piece of content is present, accurate, complete, and appropriate for its intended audience. The document either passes or fails. There is no ambiguity.
-
-### What does this file contain?
-
-The file **OE-GL-000-DOD-Content Quality Test Cases** contains 30 test cases applied to the Definition of Devices document — **OE-GL-000-DOD-Framework-v1.2**. The test cases are organised into five quality modules:
-
-**Module 1 — Completeness**
-Verifies that the document defines every category of technology relevant to equine stable environments — including humanoid machines, biomimetic robotic systems, aerial systems, ground autonomous machines, sensor systems, and algorithmic software. Also verifies that all absolute prohibitions and human oversight requirements are present and clearly stated.
-
-**Module 2 — Relevance and Accuracy**
-Verifies that every statement made about horse behaviour and sensory response is factually defensible, that all technical claims about machines are verified against current manufacturer specifications, and that every named manufacturer and machine is accurately described as of the date of publication.
-
-**Module 3 — Use Case Coverage**
-Verifies that the document addresses the real operational scenarios a stable will encounter — a first-time humanoid introduction, a machine operating near a distressed horse, near a foal, during a veterinary procedure, during an AI tool failure, and without a human present.
-
-**Module 4 — Audience Appropriateness**
-Verifies that the document serves all its intended audiences without compromise — equestrian professionals, engineers, veterinary professionals, and regulatory bodies. Verifies that no section excludes any legitimate reader through unexplained technical language or unexplained equestrian terminology.
-
-**Module 5 — Gaps and Future Coverage**
-Verifies that wherever the document does not yet address a topic, it says so explicitly. No gap is concealed. No section implies completeness where it does not exist.
-
-### What do the test results mean?
-
-| Result | Meaning |
-|---|---|
-| Pass | The document meets the stated standard for this test case |
-| Fail | The document does not meet the standard. A defect is logged and must be resolved before release |
-| Not Applicable | The content being tested belongs in a different document within the framework. It will be tested against that document when published |
-
-### What are the blank test cases for?
-
-The blank test cases tab — **OEGL-00-DOD-Content Quality Test Cases** — allows any independent party to conduct their own execution of the same 30 test cases against the Definition of Devices document. This enables independent verification that the document meets the stated quality standard. Open Equine Intelligence Systems encourages stable operators, equestrian federations, veterinary authorities, and standards bodies to conduct their own independent verification and submit results to [contact@openequine.org](mailto:contact@openequine.org).
 
 ---
 
