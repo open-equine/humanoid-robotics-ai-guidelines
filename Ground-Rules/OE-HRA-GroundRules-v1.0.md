@@ -1,8 +1,20 @@
-# Ground Rules
-## Humanoids, AI & Robots in Equine Stables
+<p align="center">
+  <img src="https://raw.githubusercontent.com/open-equine/humanoid-robotics-ai-guidelines/main/assets/logo.png" alt="Open Equine Intelligence Systems" width="180"/>
+</p>
 
-**Open Equine | Open Equine Intelligence Systems — Horse AI**
-*A TechXZone Pvt Ltd Initiative*
+<h1 align="center">Humanoids, AI & Robots in Equine Stables</h1>
+<h2 align="center">Equine Safety Oriented Ground Rules</h2>
+<h3 align="center">Open Equine Intelligence Systems — Horse AI</h3>
+<h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reference-OE--HRA--001-navy" alt="OE-HRA-001"/>
+  <img src="https://img.shields.io/badge/Status-Published-brightgreen" alt="Published"/>
+  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version 1.0"/>
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/Documents-CC--BY--SA%204.0-green.svg" alt="CC-BY-SA 4.0"/></a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/Code-AGPLv3-blue.svg" alt="AGPLv3"/></a>
+  <img src="https://img.shields.io/badge/Domain-Equine%20Safety-gold" alt="Equine Safety"/>
+</p>
 
 ---
 
@@ -57,6 +69,23 @@ No machine operating in a stable environment may take action that is beyond the 
 
 ---
 
-*These ground rules are established for the safety of horses, humans, and machines in the stable.*
+## Governance
 
-*Open Equine | Open Equine Intelligence Systems — Horse AI | A TechXZone Pvt Ltd Initiative | openequine.org | Code: AGPLv3 | Documents: CC-BY-SA 4.0*
+| | |
+|---|---|
+| **Document Reference** | OE-HRA-001 |
+| **Issuing Body** | Open Equine Intelligence Systems — Horse AI |
+| **Organisation** | A TechXZone Pvt Ltd Initiative |
+| **Version** | 1.0 — May 2026 |
+| **Release** | Public domain. Free of cost. Attribution required on adoption or adaptation. |
+| **Review Cycle** | This is a living document. Release cycle and review phases are announced on openequine.org. |
+| **Liability** | Remains with stable management at all times. |
+| **Contact** | contact@openequine.org |
+| **Code Licence** | [AGPLv3](https://www.gnu.org/licenses/agpl-3.0) |
+| **Document Licence** | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) |
+
+---
+
+*These Ground Rules are established for the safety of horses, humans, and machines in the stable.*
+
+*Open Equine   |   Open Equine Intelligence Systems — Horse AI   |   A TechXZone Pvt Ltd Initiative   |   openequine.org   |   contact@openequine.org   |   OE-HRA-001   |   Version 1.0   |   May 2026*
