@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/open-equine/humanoid-robotics-ai-equine-safety-guidelines/main/assets/logo.png" alt="Open Equine Intelligence Systems" width="180"/>
 </p>
 
-<h1 align="center">Definition of Devices</h1>
+<h1 align="center">OE-GL-000_Definition of Devices Framework</h1>
 <h2 align="center">Intelligent and Biomimetic Systems in Equine Stable Environments</h2>
 <h3 align="center">Open Equine Intelligence Systems — Horse AI</h3>
 <h4 align="center">Open Equine — A TechXZone Pvt Ltd Initiative</h4>
